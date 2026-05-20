@@ -2,7 +2,7 @@ name: Collect V2Ray Configs
 
 on:
   schedule:
-    # Запуск каждые 6 часов (00:00, 06:00, 12:00, 18:00 UTC)
+    # Запуск каждые 6 часов
     - cron: "0 */6 * * *"
   workflow_dispatch:   # Запуск вручную из вкладки Actions
 
@@ -27,6 +27,9 @@ jobs:
           pip install requests
 
       - name: Run collector
+        # Передаем скрытые ссылки из GitHub Secrets в скрипт
+        env:
+          CONFIG_URLS: ${{ secrets.CONFIG_URLS }}
         run: python mir2.py
 
       - name: Commit & push if configs changed
@@ -37,7 +40,7 @@ jobs:
           # Индексируем все текстовые файлы в папке configs
           git add configs/*.txt
           
-          # Коммитим только в случае реальных изменений, чтобы не плодить пустые коммиты
+          # Коммитим только в случае реальных изменений
           git diff --cached --quiet || \
             git commit -m "chore: update split configs [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
