@@ -5,40 +5,47 @@ import sys
 import time
 import json
 import urllib.parse
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Thread
 
-# --- ANSI цвета для красивого лога в GitHub Actions ---
-RESET = "\033[0m"
-BOLD = "\033[1m"
-CYAN = "\033[96m"
-GREEN = "\033[92m"
+# --- ANSI цвета ---
+RESET  = "\033[0m"
+BOLD   = "\033[1m"
+CYAN   = "\033[96m"
+GREEN  = "\033[92m"
 YELLOW = "\033[93m"
-RED = "\033[91m"
-MAGENTA = "\033[95m"
-BLUE = "\033[94m"
+RED    = "\033[91m"
+MAGENTA= "\033[95m"
+BLUE   = "\033[94m"
 
 # ─────────────────────────────────────────────
 # Настройки
 # ─────────────────────────────────────────────
-OUTPUT_FILE = "configs/all_configs.txt"
-CUSTOM_REMARK = "V Team"        # Ваше кастомное название
-REQUEST_TIMEOUT = 12             # секунды
+OUTPUT_DIR      = "configs"       # Папка для сохранения результатов
+CUSTOM_REMARK   = "V Team"        # Ваше кастомное название
+REQUEST_TIMEOUT = 12              # секунды
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ConfigCollector/1.0)"
 }
 
-# Извлекаем ссылки из GitHub Secrets (переменной окружения)
-raw_urls = os.getenv("CONFIG_URLS", "")
-
-# Разбиваем строку по переносим строк или запятым, убирая пустые элементы
-if "," in raw_urls:
-    URLS = [u.strip() for u in raw_urls.split(",") if u.strip()]
-else:
-    URLS = [u.strip() for u in raw_urls.splitlines() if u.strip()]
+# Динамическое чтение URL-адресов из GitHub Secrets
+ENV_URLS = os.getenv("CONFIG_URLS", "")
+URLS = [line.strip() for line in ENV_URLS.splitlines() if line.strip()]
 
 # ─────────────────────────────────────────────
 # Утилиты
 # ─────────────────────────────────────────────
+
+def is_ci() -> bool:
+    return os.getenv("CI") == "true" or os.getenv("GITHUB_ACTIONS") == "true"
+
+def animate_loading(stop_event: dict):
+    chars = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
+    i = 0
+    while not stop_event["done"]:
+        sys.stdout.write(f"\r{CYAN}[ {chars[i % len(chars)]} Сбор... ]{RESET} ")
+        sys.stdout.flush()
+        time.sleep(0.08)
+        i += 1
 
 def shorten_url(url: str) -> str:
     parts = url.split("/")
@@ -47,6 +54,7 @@ def shorten_url(url: str) -> str:
     return url[-40:]
 
 def get_config_fingerprint(config_str: str) -> str:
+    """Создает уникальный отпечаток конфига без названия (remark)."""
     config_str = config_str.strip()
     if config_str.startswith("vmess://"):
         try:
@@ -62,6 +70,7 @@ def get_config_fingerprint(config_str: str) -> str:
     return config_str
 
 def set_custom_remark(config_str: str, remark: str) -> str:
+    """Заменяет оригинальное название на кастомное."""
     config_str = config_str.strip()
     if config_str.startswith("vmess://"):
         try:
@@ -111,72 +120,111 @@ def fetch_url(url: str) -> str | None:
         except: continue
     return None
 
-def process_single_url(url: str) -> tuple[str, list[str], str]:
+def parse_configs(url: str) -> tuple[list[str], str]:
+    in_ci = is_ci()
+    stop_event = {"done": False}
+    if not in_ci:
+        spinner = Thread(target=animate_loading, args=(stop_event,), daemon=True)
+        spinner.start()
     try:
         raw = fetch_url(url)
-        if raw is None:
-            return url, [], "Net_Err"
-        configs, data_type = decode_content(raw)
-        return url, configs, data_type
+        stop_event["done"] = True
+        if not in_ci: sys.stdout.write("\r" + " " * 40 + "\r")
+        if raw is None: return [], "Net_Err"
+        return decode_content(raw)
     except Exception:
-        return url, [], "Error"
+        stop_event["done"] = True
+        return [], "Error"
 
 # ─────────────────────────────────────────────
 # Главная логика
 # ─────────────────────────────────────────────
 
 def main():
+    in_ci = is_ci()
+    
+    # Проверка: если список URL пуст, значит секрет не задан или пустой
     if not URLS:
-        print(f"{RED}[Критическая ошибка] Список CONFIG_URLS пуст! Проверьте GitHub Secrets.{RESET}")
+        print(f"\n{RED}{BOLD}[ОШИБКА] Список URL пуст!{RESET}")
+        print(f"{YELLOW}Убедитесь, что вы создали секрет CONFIG_URLS в настройках репозитория.{RESET}\n")
         sys.exit(1)
 
-    print(f"{CYAN}=== Начинаем параллельный сбор конфигураций ({len(URLS)} источников) ==={RESET}")
+    if not in_ci:
+        os.system("cls" if os.name == "nt" else "clear")
+        print(f"\n{BOLD}{MAGENTA}{'ТИП':<9} | {'КОЛ-ВО':<8} | ИСТОЧНИК{RESET}")
+        print(f"{BLUE}" + "-" * 65 + RESET)
+    else:
+        print("=== Config Collector starting ===")
+        print(f"Loaded {len(URLS)} sources from GitHub Secrets.")
 
-    unique_configs_dict = {}
+    unique_configs_dict = {} # {fingerprint: modified_config}
     total_raw = 0
-    results = []
 
-    # Скачиваем параллельно в 15 потоков для экономии минут GitHub Actions
-    with ThreadPoolExecutor(max_workers=15) as executor:
-        future_to_url = {executor.submit(process_single_url, url): url for url in URLS}
-        for future in as_completed(future_to_url):
-            results.append(future.result())
+    try:
+        for link in URLS:
+            configs, data_type = parse_configs(link)
+            total_raw += len(configs)
+            for cfg in configs:
+                fp = get_config_fingerprint(cfg)
+                if fp not in unique_configs_dict:
+                    unique_configs_dict[fp] = set_custom_remark(cfg, CUSTOM_REMARK)
 
-    # Логируем результаты обработки в консоль GitHub
-    print(f"\n{BOLD}{MAGENTA}{'ТИП':<9} | {'КОЛ-ВО':<8} | ИСТОЧНИК{RESET}")
-    print(f"{BLUE}" + "-" * 65 + RESET)
+            if not in_ci:
+                type_colors = {"Plain": GREEN, "Base64": GREEN, "Empty": YELLOW}
+                type_col = f"{type_colors.get(data_type, RED)}{data_type:<9}{RESET}"
+                print(f"{type_col} | {len(configs):>4} шт.   | {shorten_url(link)}")
+            else:
+                print(f"[{data_type}] {len(configs):>4} configs  {shorten_url(link)}")
 
-    url_to_res = {res[0]: (res[1], res[2]) for res in results}
+    except KeyboardInterrupt:
+        print(f"\n{YELLOW}⚠ Прервано пользователем{RESET}")
 
-    for link in URLS:
-        if link in url_to_res:
-            configs, data_type = url_to_res[link]
+    finally:
+        unique_configs = list(unique_configs_dict.values())
+        total_unique = len(unique_configs)
+        
+        # Гарантируем наличие папки под файлы
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        
+        # Алгоритм равномерного распределения на 10 файлов
+        num_files = 10
+        avg = total_unique // num_files
+        remain = total_unique % num_files
+        
+        idx = 0
+        saved_info = []
+        
+        for i in range(num_files):
+            # Распределяем остаток по первым файлам
+            chunk_size = avg + (1 if i < remain else 0)
+            chunk = unique_configs[idx:idx + chunk_size]
+            idx += chunk_size
+            
+            file_name = f"sub_{i+1}.txt"
+            file_path = os.path.join(OUTPUT_DIR, file_name)
+            
+            with open(file_path, "w", encoding="utf-8") as f:
+                if chunk:
+                    f.write("\n".join(chunk) + "\n")
+                else:
+                    f.write("") # Защита на случай, если уникальных конфигов меньше 10
+            
+            saved_info.append(f"{file_name}: {len(chunk)} шт.")
+
+        # Красивый вывод результатов
+        if not in_ci:
+            print(f"\n{CYAN}╔{'═'*58}╗{RESET}")
+            print(f"{CYAN}║{RESET}{BOLD}  ВСЕГО НАЙДЕНО:   {total_raw:<39}{RESET}{CYAN}║{RESET}")
+            print(f"{CYAN}║{RESET}{BOLD}  УНИКАЛЬНЫХ:      {total_unique:<39}{RESET}{CYAN}║{RESET}")
+            print(f"{CYAN}║{RESET}{BOLD}  МАРКИРОВКА:      {CUSTOM_REMARK:<39}{RESET}{CYAN}║{RESET}")
+            print(f"{CYAN}╠{'═'*58}╣{RESET}")
+            for info in saved_info:
+                print(f"{CYAN}║{RESET}  • {info:<45} {RESET}{CYAN}║{RESET}")
+            print(f"{CYAN}╚{'═'*58}╝{RESET}\n")
         else:
-            configs, data_type = [], "Skipped"
-
-        total_raw += len(configs)
-        for cfg in configs:
-            fp = get_config_fingerprint(cfg)
-            if fp not in unique_configs_dict:
-                unique_configs_dict[fp] = set_custom_remark(cfg, CUSTOM_REMARK)
-
-        type_colors = {"Plain": GREEN, "Base64": GREEN, "Empty": YELLOW, "Net_Err": RED, "Error": RED}
-        type_col = f"{type_colors.get(data_type, RED)}{data_type:<9}{RESET}"
-        print(f"{type_col} | {len(configs):>4} шт.   | {shorten_url(link)}")
-
-    # Сохраняем результат в файл
-    unique_configs = list(unique_configs_dict.values())
-    os.makedirs(os.path.dirname(OUTPUT_FILE) or ".", exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(unique_configs) + "\n")
-
-    # Выводим финальную статистику
-    print(f"\n{CYAN}╔{'═'*58}╗{RESET}")
-    print(f"{CYAN}║{RESET}{BOLD}  ВСЕГО НАЙДЕНО:   {total_raw:<39}{RESET}{CYAN}║{RESET}")
-    print(f"{CYAN}║{RESET}{BOLD}  УНИКАЛЬНЫХ:      {len(unique_configs):<39}{RESET}{CYAN}║{RESET}")
-    print(f"{CYAN}║{RESET}{BOLD}  МАРКИРОВКА:      {CUSTOM_REMARK:<39}{RESET}{CYAN}║{RESET}")
-    print(f"{CYAN}║{RESET}{BOLD}  СОХРАНЕНО В:     {OUTPUT_FILE:<39}{RESET}{CYAN}║{RESET}")
-    print(f"{CYAN}╚{'═'*58}╝{RESET}\n")
+            print(f"\nTotal: {total_raw} | Unique: {total_unique} | Split into {num_files} files in '{OUTPUT_DIR}/'")
+            for info in saved_info:
+                print(f"  - {info}")
 
 if __name__ == "__main__":
     main()
