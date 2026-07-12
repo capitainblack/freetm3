@@ -1,26 +1,3 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.196.56:8443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.196.56:8443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.196.56:8443?sni=Koma-YT.PAGeS.Dev#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.181:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.181:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.183:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.183:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.183:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.90:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.90:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.90:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.204.254:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.204.254:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.204.254:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.204.254:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:2053?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:2053?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.233:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.40:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.40:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.40:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#V%20Team
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.205.40:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.206.205:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#V%20Team
@@ -4401,7 +4378,6 @@ trojan://8r7a9mxlqysx3gf0@159.223.208.17:33378?security=none&headerType=none&typ
 trojan://8r<[9#V%20Team
 trojan://8riu8dtfqzk58yzp@84.75.220.183:443?security=reality&pbk=n4II_vPH4Xv8MtRUcmJYj6lfoN-BUpzZIb6O3pF2NQs&headerType=none&fp=chrome&spx=%2Fr8A9Dh6OG9i5lPh&type=tcp&sni=www.google.com&sid=dafecc3fb2#V%20Team
 trojan://8riu8dtfqzk58yzp@84.75.220.183:443?security=reality&pbk=n4II_vPH4Xv8MtRUcmJYj6lfoN-BUpzZIb6O3pF2NQs&headerType=none&fp=chrome&spx=/r8A9Dh6OG9i5lPh&type=tcp&sni=www.google.com&sid=dafecc3fb2#V%20Team
-trojan://8tcnyq0g-3o12-h5is-s6sn-dumohn9v41f4@127.0.0.1:8080?security=tls&type=tcp#V%20Team
 trojan://8tj7ffjlp4fnof1r@speedgate.dezhawo.ir:8443?fp=chrome&pbk=RRhhzaYH5WVK0wEtzZa2mejj9IphOtlljeou0H8H7Sc&security=reality&sid=5231e188&sni=www.yahoo.com&spx=/oOX96x3DAMtdtQz&type=tcp#V%20Team
 trojan://8zlR8O7E3S8uqex4xYnpp8O6C3lZejBCZO53eYD7XIAaaTBRC3Cj9SCFxlAwKAwD2yyN3@54.249.161.173:443?allowInsecure=0&sni=sniffle.meijireform.com#V%20Team
 trojan://9%2FpjttoeXshzsAbBi%2FBe31D2aEw9clptPujtiCdmvx4%3D@89.167.82.102:2053?security=none&type=tcp#V%20Team
@@ -4547,7 +4523,6 @@ trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@sg.mjt000.com:443/?type=tcp&securi
 trojan://92686865-4cda-49a9-88af-c2c811db3403@jp.liangyuandian.top:443?allowInsecure=0#V%20Team
 trojan://92686865-4cda-49a9-88af-c2c811db3403@jp.liangyuandian.top:443?allowInsecure=1#V%20Team
 trojan://926b26e0-6774-11f1-a61d-1239d0255272@news.microsoft.com:443?security=tls&sni=uk1.test3.net&insecure=0&allowInsecure=0&type=ws&host=uk1.test3.net&path=%2Fhowdy#V%20Team
-trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net&type=grpc&serviceName=trgrpc#V%20Team
 trojan://92918692-d7b2-4fe9-a321-876585dd1368@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&peer=jp200m.jiasu.asia&security=tls#V%20Team
 trojan://92918692-d7b2-4fe9-a321-876585dd1368@us200m.jiasu.asia:50000?sni=us200m.jiasu.asia&peer=us200m.jiasu.asia&security=tls#V%20Team
 trojan://92a3d21eb02c364@boyka3.irngamer.ir:8443?path=/720f09dba195249b423f771661162528/workers/services/view/best/production/settings&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=q23vF9bMxDEHr80AiymwX.rafachita.ir#V%20Team
@@ -4716,6 +4691,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@139.227.52.6:65013?allowInsecure=1
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@139.227.52.6:65014?allowInsecure=1&sni=jp04a.roc-taiwan.net.ua#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@139.227.52.6:8443?allowInsecure=1&sni=official.seoulcitygovernment.com.ua#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?allowInsecure=1#V%20Team
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?allowInsecure=1#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@180.156.156.194:2053?allowInsecure=1&sni=official.tokyometropolis.kherson.ua#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@180.156.156.194:65015?allowInsecure=1&sni=jp05a.roc-taiwan.org.ua#V%20Team
@@ -4727,14 +4703,17 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443/?type=tcp&secur
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@210.64.18.98:8080?allowInsecure=1#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?allowInsecure=1#V%20Team
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@223.167.41.76:2053#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?allowInsecure=1#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome#V%20Team
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#V%20Team
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#V%20Team
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#V%20Team
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?allowInsecure=0#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?allowInsecure=1#V%20Team
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls&sni=167.179.82.139&type=tcp&headerType=none#V%20Team
@@ -4871,9 +4850,9 @@ trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?securit
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?allowInsecure=0&sni=bangladeshipatri.com#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#V%20Team
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&path=6b777a91&Host=bangladeshipatri.com#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91&host=bangladeshipatri.com#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@104.17.61.4:443?allowInsecure=0&sni=jobsapplyworld.com#V%20Team
+trojan://984e400bf5d541b7b0815913fe0c432a@104.17.61.4:443?security=tls&sni=jobsapplyworld.com&type=ws&path=6b777a91&Host=jobsapplyworld.com#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91&fp=chrome#V%20Team
 trojan://984e400bf5d541b7b0815913fe0c432a@23.150.248.153:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#V%20Team
@@ -5120,7 +5099,6 @@ trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?Telegram=@Goza
 trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?allowInsecure=0&sni=red-cell-47f9.milaniomilan9.workers.dev#V%20Team
 trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?encryption=none&security=none&sni=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&type=ws&host=red-cell-47f9.milaniomilan9.workers.dev&path=/eyJqdW5rIjoiSWFzMHp3Nko4MjMiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ==&allowInsecure=0#V%20Team
 trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?security=none&type=ws&sni=red-cell-47f9.milaniomilan9.workers.dev&path=/eyJqdW5rIjoiSWFzMHp3Nko4MjMiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ==&host=red-cell-47f9.milaniomilan9.workers.dev#V%20Team
-trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?security=tls&sni=red-cell-47f9.milaniomilan9.workers.dev#V%20Team
 trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?security=tls&sni=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=red-cell-47f9.milaniomilan9.workers.dev&path=%2F#V%20Team
 trojan://9c609294-1421-41de-9c68-02656354e10b@gzdx.jcnode.top:40000?allowInsecure=1&sni=hk01.ckcloud.info#V%20Team
 trojan://9c609294-1421-41de-9c68-02656354e10b@gzyd.jcnode.top:43002?allowInsecure=1&sni=sg01.ckcloud.info#V%20Team
@@ -5138,6 +5116,7 @@ trojan://9c7a49a2-ddff-4654-925b-baa7913dbc56@185.32.183.15:443?allowInsecure=1&
 trojan://9c7a49a2-ddff-4654-925b-baa7913dbc56@185.32.183.15:443?sni=cz.v212.fun#V%20Team
 trojan://9c7a49a2-ddff-4654-925b-baa7913dbc56@cz.v212.fun:443?allowInsecure=0#V%20Team
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?allowInsecure=1&sni=138.2.113.248#V%20Team
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#V%20Team
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@jgwcc2.gaox.ml:443?allowInsecure=0#V%20Team
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@jgwcc2.gaox.ml:443?allowInsecure=1#V%20Team
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@jgwcc2.gaox.ml:443?security=tls&type=tcp&headerType=none#V%20Team
@@ -6208,7 +6187,6 @@ trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&inse
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.mesaly.click#V%20Team
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.mesaly.click#V%20Team
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.mesaly.click#V%20Team
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click#V%20Team
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&alpn=http%2f1.1&fp=chrome&type=tcp&path=%2f#V%20Team
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&alpn=http/1.1&fp=chrome&type=tcp&path=/#V%20Team
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp#V%20Team
@@ -6324,6 +6302,7 @@ trojan://BxceQaOe@119.246.1.143:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedi
 trojan://BxceQaOe@119.246.1.143:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@119.246.1.143:443?security=tls&amp;sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#V%20Team
@@ -6336,7 +6315,6 @@ trojan://BxceQaOe@119.246.1.143:443?sni=t.me%2Fripaojiedian&allowInsecure=1&type
 trojan://BxceQaOe@119.246.1.143:443?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@119.246.1.143:443?sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&fp=chrome#V%20Team
-trojan://BxceQaOe@119.246.1.143:443?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#V%20Team
 trojan://BxceQaOe@13.114.188.23:10478/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@13.114.188.23:10478?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.114.188.23:10478?security=tls&sni=t.me%252Fripaojiedian#V%20Team
@@ -6360,6 +6338,7 @@ trojan://BxceQaOe@13.114.234.238:16712?security=tls&sni=t.me%252Fripaojiedian#V%
 trojan://BxceQaOe@13.114.234.238:16712?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.115.183.122:10624/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@13.115.183.122:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
+trojan://BxceQaOe@13.115.183.122:10624?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.115.183.122:10624?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.158.2.187:4099/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@13.158.2.187:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
@@ -6367,7 +6346,6 @@ trojan://BxceQaOe@13.158.2.187:4099?security=tls&sni=t.me%252Fripaojiedian#V%20T
 trojan://BxceQaOe@13.158.2.187:4099?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.158.45.13:51976/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@13.158.45.13:51976?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
-trojan://BxceQaOe@13.158.45.13:51976?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.158.45.13:51976?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@13.158.76.164:6769/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@13.158.76.164:6769?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
@@ -6423,6 +6401,7 @@ trojan://BxceQaOe@140.235.140.105:443?security=tls&sni=t.me/ripaojiedian#V%20Tea
 trojan://BxceQaOe@140.235.140.105:443?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.109.204:11035/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.109.204:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@16.162.109.204:11035?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.109.204:11035?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.109.208:11035/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.109.208:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6443,6 +6422,7 @@ trojan://BxceQaOe@16.162.119.181:29449?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.119.43:25675?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.121.169:22657/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.121.169:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@16.162.121.169:22657?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.121.169:22657?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.122.123:23255?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.122.182:45744/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
@@ -6476,13 +6456,11 @@ trojan://BxceQaOe@16.162.217.128:27167?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:11353/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
-trojan://BxceQaOe@16.162.220.240:11353?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:11353?security=tls&sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:11353?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:27161/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
-trojan://BxceQaOe@16.162.220.240:27161?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.240:27161?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.220.245:54240/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.220.245:54240?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6498,6 +6476,7 @@ trojan://BxceQaOe@16.162.24.151:32858?security=tls&sni=t.me%2Fripaojiedian#V%20T
 trojan://BxceQaOe@16.162.24.151:32858?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.24.7:4099/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.24.7:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
+trojan://BxceQaOe@16.162.24.7:4099?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.24.7:4099?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.162.33.127:11035/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.162.33.127:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6565,7 +6544,6 @@ trojan://BxceQaOe@16.163.142.40:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#V%
 trojan://BxceQaOe@16.163.142.40:22657?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@16.163.145.82:22459/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.163.145.82:22459?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
-trojan://BxceQaOe@16.163.145.82:22459?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.163.145.82:22459?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@16.163.145.82:50115/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@16.163.145.82:50115?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6661,10 +6639,10 @@ trojan://BxceQaOe@18.162.54.223:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@18.162.54.223:41421?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.162.54.223:41421?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.115.109:44265/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
-trojan://BxceQaOe@18.163.115.109:44265?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.116.155:44265/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.163.116.155:44265?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.116.155:44265?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
+trojan://BxceQaOe@18.163.116.155:44265?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.116.155:44265?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#V%20Team
 trojan://BxceQaOe@18.163.116.155:44265?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.116.155:44265?sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&fp=chrome#V%20Team
@@ -6708,7 +6686,6 @@ trojan://BxceQaOe@18.163.56.230:3941?allowInsecure=1&sni=t.me%2Fripaojiedian#V%2
 trojan://BxceQaOe@18.163.56.230:3941?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.56.230:3941?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.56.230:3941?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
-trojan://BxceQaOe@18.163.56.230:3941?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.56.230:3941?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.163.62.241:29443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.163.62.241:29443?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6740,7 +6717,6 @@ trojan://BxceQaOe@18.166.154.20:22057?security=tls&sni=t.me%2Fripaojiedian#V%20T
 trojan://BxceQaOe@18.166.154.20:22057?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.166.177.233:22657/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.166.177.233:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
-trojan://BxceQaOe@18.166.177.233:22657?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.166.177.233:22657?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.166.178.81:17801/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.166.178.81:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6825,6 +6801,7 @@ trojan://BxceQaOe@18.166.75.58:11035?security=tls&sni=t.me%2Fripaojiedian#V%20Te
 trojan://BxceQaOe@18.166.75.58:11035?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.167.36.144:11035/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.167.36.144:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@18.167.36.144:11035?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.167.36.144:11035?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.176.57.129:4099/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.176.57.129:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
@@ -6833,7 +6810,6 @@ trojan://BxceQaOe@18.176.57.129:4099?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.179.204.16:45691/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.179.204.16:45691?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.179.204.16:45691?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
-trojan://BxceQaOe@18.179.204.16:45691?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.179.204.16:45691?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.181.208.41:28694/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.181.208.41:28694?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
@@ -6900,7 +6876,6 @@ trojan://BxceQaOe@18.183.247.142:19706?security=tls&sni=t.me%252Fripaojiedian#V%
 trojan://BxceQaOe@18.183.247.142:19706?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.183.54.150:10624/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.183.54.150:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
-trojan://BxceQaOe@18.183.54.150:10624?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.183.54.150:10624?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.183.6.145:54708/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.183.6.145:54708?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -6909,6 +6884,7 @@ trojan://BxceQaOe@18.183.6.145:54708?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@18.183.83.131:18021/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@18.183.83.131:18021?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.183.83.131:18021?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
+trojan://BxceQaOe@18.183.83.131:18021?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@18.183.83.131:18021?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#V%20Team
@@ -6977,6 +6953,7 @@ trojan://BxceQaOe@43.198.227.190:50446?security=tls&headerType=none&type=tcp&sni
 trojan://BxceQaOe@43.198.227.190:50446?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.198.243.211:44265/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.198.243.211:44265?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@43.198.243.211:44265?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.198.243.211:44265?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.198.79.5:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.198.79.5:4099?security=tls&sni=t.me%252Fripaojiedian#V%20Team
@@ -6995,6 +6972,7 @@ trojan://BxceQaOe@43.199.202.97:51396?security=tls&insecure=1&headerType=none&ty
 trojan://BxceQaOe@43.199.202.97:51396?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.202.97:51396?security=tls&sni=t.me/ripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#V%20Team
 trojan://BxceQaOe@43.199.202.97:51396?sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@43.199.202.97:51396?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#V%20Team
 trojan://BxceQaOe@43.199.202.97:7674/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.202.97:7674?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.202.97:7674?allowInsecure=0&sni=t.me%2Fripaojiedian#V%20Team
@@ -7002,7 +6980,6 @@ trojan://BxceQaOe@43.199.202.97:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#V%2
 trojan://BxceQaOe@43.199.202.97:7674?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.202.97:7674?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.202.97:7674?sni=t.me/ripaojiedian#V%20Team
-trojan://BxceQaOe@43.199.202.97:7674?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#V%20Team
 trojan://BxceQaOe@43.199.207.202:16712/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.207.202:16712?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.207.202:16712?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
@@ -7035,20 +7012,20 @@ trojan://BxceQaOe@43.199.230.55:15109?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@43.199.230.55:15109?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.230.55:15109?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.252.80:29443?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
+trojan://BxceQaOe@43.199.252.80:29443?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.31.196:10624/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.31.196:41421/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.31.72:39414/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.31.72:39414?allowInsecure=0&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.31.72:39414?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.31.72:39414?allowInsecure=1&sni=t.me/ripaojiedian#V%20Team
+trojan://BxceQaOe@43.199.31.72:39414?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.31.72:39414?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.34.99:27167/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.34.99:27167?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
-trojan://BxceQaOe@43.199.34.99:27167?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.34.99:27167?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.34.99:51396/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.34.99:51396?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
-trojan://BxceQaOe@43.199.34.99:51396?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.34.99:51396?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.35.162:11035/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.35.162:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -7068,6 +7045,7 @@ trojan://BxceQaOe@43.199.42.178:3515?security=tls&sni=t.me%2Fripaojiedian#V%20Te
 trojan://BxceQaOe@43.199.42.178:3515?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.44.33:22657/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.44.33:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
+trojan://BxceQaOe@43.199.44.33:22657?security=tls&sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.44.33:22657?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@43.199.44.33:29449/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@43.199.44.33:29449?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -7251,6 +7229,7 @@ trojan://BxceQaOe@54.46.123.9:22057?security=tls&sni=t.me%2Fripaojiedian#V%20Tea
 trojan://BxceQaOe@54.46.123.9:22057?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@54.46.14.161:9149/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@54.46.14.161:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
+trojan://BxceQaOe@54.46.14.161:9149?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@54.46.14.161:9149?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@54.46.14.230:27161/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@54.46.14.230:27161?security=tls&sni=t.me%2Fripaojiedian#V%20Team
@@ -7357,7 +7336,6 @@ trojan://BxceQaOe@95.40.61.181:29449?security=tls&sni=t.me%2Fripaojiedian#V%20Te
 trojan://BxceQaOe@95.40.61.181:29449?sni=t.me/ripaojiedian#V%20Team
 trojan://BxceQaOe@95.40.61.197:47656/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@95.40.61.197:47656?allowInsecure=1&sni=t.me%252Fripaojiedian#V%20Team
-trojan://BxceQaOe@95.40.61.197:47656?security=tls&sni=t.me%252Fripaojiedian#V%20Team
 trojan://BxceQaOe@95.40.61.197:47656?sni=t.me%2Fripaojiedian#V%20Team
 trojan://BxceQaOe@95.40.61.5:4327/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#V%20Team
 trojan://BxceQaOe@95.40.61.5:4327?allowInsecure=1&sni=t.me%2Fripaojiedian#V%20Team
@@ -7630,7 +7608,6 @@ trojan://Cz$dJD8P3Y2%@www.speedtest.net:2087?security=tls&sni=76lu1PTrANIcxzAkgC
 trojan://Cz%24dJD8P3Y2%25@www.speedtest.net:2087?path=%2FeyJqdW5rIjoiTDRsaDBnVXBBMFUyTSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=76lu1ptranicxzakgc-nlgyxvwnhie3l.mohamadsalehpx1-1d6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=76lu1PTrANIcxzAkgC-nLGyXvWNhiE3L.MohAMaDsAlehpX1-1D6.wORkeRS.DEv#V%20Team
 trojan://Cz%24dJD8P3Y2%25@www.speedtest.net:2087?path=/eyJqdW5rIjoiTDRsaDBnVXBBMFUyTSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=76lu1ptranicxzakgc-nlgyxvwnhie3l.mohamadsalehpx1-1d6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=76lu1PTrANIcxzAkgC-nLGyXvWNhiE3L.MohAMaDsAlehpX1-1D6.wORkeRS.DEv#V%20Team
 trojan://Cz%24dJD8P3Y2%25@www.speedtest.net:2087?security=tls&sni=76lu1PTrANIcxzAkgC-nLGyXvWNhiE3L.MohAMaDsAlehpX1-1D6.wORkeRS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=76lu1ptranicxzakgc-nlgyxvwnhie3l.mohamadsalehpx1-1d6.workers.dev&path=%2FeyJqdW5rIjoiTDRsaDBnVXBBMFUyTSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#V%20Team
-trojan://D8p3QOxM6W@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:443?security=reality&amp;pbk=HTXqZvCyL3klMowhevap07Gg5rpC3UX-SZweM26ML30&amp;host=yahoo.com&amp;headerType=http&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com.com#V%20Team
 trojan://D8p3QOxM6W@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:443?security=reality&pbk=HTXqZvCyL3klMowhevap07Gg5rpC3UX-SZweM26ML30&host=yahoo.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com.com#V%20Team
 trojan://D8p3QOxM6W@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:443?security=reality&pbk=HTXqZvCyL3klMowhevap07Gg5rpC3UX-SZweM26ML30&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com.com#V%20Team
 trojan://D9NOL7gTTTrL@3.236.168.245:14795?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#V%20Team
@@ -7640,6 +7617,7 @@ trojan://DC&&buj17.%23donz*@45.80.108.1:2096/?type=ws&host=sue-support.pages.dev
 trojan://DHvwod7oq7@104.21.80.1:2083/?type=ws&host=esna.twn24.ir&path=%2Fmehdi&security=tls&sni=esna.twn24.ir#V%20Team
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?allowInsecure=0&sni=www.event-snapshot.click#V%20Team
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.event-snapshot.click#V%20Team
+trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click#V%20Team
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#V%20Team
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click&fp=chrome&type=tcp#V%20Team
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#V%20Team
@@ -7709,8 +7687,6 @@ trojan://EUbLdomS4e@manager.xyzxz.qzz.io:443?type=grpc&serviceName=%2F18646%2Fme
 trojan://EUbLdomS4e@news.xbxcdv.qzz.io:443?allowInsecure=0&sni=news.xbxcdv.qzz.io&alpn=h3%2Ch2%2Chttp/1.1&type=grpc&serviceName=/18646/mehdi#V%20Team
 trojan://EUbLdomS4e@news.xbxcdv.qzz.io:443?security=tls&sni=news.xbxcdv.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&authority=news.xbxcdv.qzz.io&serviceName=%2F18646%2Fmehdi&mode=gun#V%20Team
 trojan://EUbLdomS4e@news.xbxcdv.qzz.io:443?type=grpc&serviceName=%2F18646%2Fmehdi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&sni=news.xbxcdv.qzz.io#V%20Team
-trojan://EX5xrJEzcT@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?sni=yahoo.com&peer=yahoo.com&security=reality#V%20Team
-trojan://EX5xrJEzcT@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?type=raw&headerType=http&host=yahoo.com&path=%2F&security=reality&fp=chrome&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&sni=yahoo.com&spx=%2F#V%20Team
 trojan://EX5xrJEzcT@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?type=tcp&security=reality&headerType=http&host=yahoo.com&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=/#V%20Team
 trojan://EZLgVDj2un@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=manager.xyzxz.qzz.io&path=%2F29070%2Fmehdi#V%20Team
 trojan://EZLgVDj2un@news.xbxcdv.qzz.io:443?security=tls&sni=news.xbxcdv.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=news.xbxcdv.qzz.io&path=%2F29070%2Fmehdi#V%20Team
@@ -7779,7 +7755,6 @@ trojan://External_Net@27.50.48.49:443?type=xhttp&security=tls&path=/&host=pub.kh
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443/?type=tcp&security=tls&sni=stutter.freetrade.link#V%20Team
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?allowInsecure=0&sni=stutter.freetrade.link#V%20Team
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?allowInsecure=1&sni=stutter.freetrade.link#V%20Team
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#V%20Team
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?sni=stutter.freetrade.link#V%20Team
 trojan://F42UEtSEue3xZeeomz%2FBnvE8zoS4RiuHzNHD%2Bq1MWjg%3D@64.177.65.95:17813?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=64.177.65.95&fp=chrome&type=httpupgrade&allowInsecure=0&sni=64.177.65.95#V%20Team
 trojan://F42UEtSEue3xZeeomz%2FBnvE8zoS4RiuHzNHD%2Bq1MWjg%3D@64.177.65.95:43493?security=reality&pbk=wQYwwDqJYcFwb0tBON7-ggw8pO1DZ7ven_AjRvPIzBU&headerType=none&fp=chrome&spx=%2FPlPePIGEEFMNkJX&type=tcp&sni=intel.com&sid=782c47f2a34f#V%20Team
@@ -7959,7 +7934,6 @@ trojan://GToK9gzuwh@146.190.84.34:443?security=tls&sni=aka.ms&type=ws&path=%2525
 trojan://GToK9gzuwh@146.190.84.34:443?security=tls&sni=aka.ms&type=ws&path=%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fh2%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Chttp%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F1.1&Host=aka.ms#V%20Team
 trojan://GToK9gzuwh@146.190.84.34:443?security=tls&sni=aka.ms&type=ws&path=%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fh2%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Chttp%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F1.1&Host=aka.ms#V%20Team
 trojan://GToK9gzuwh@146.190.84.34:443?security=tls&sni=aka.ms&type=ws&path=%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fh2%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Chttp%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F1.1&Host=aka.ms#V%20Team
-trojan://GToK9gzuwh@146.190.84.34:443?security=tls&sni=aka.ms&type=ws&path=%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fh2%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Chttp%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F1.1&Host=aka.ms#V%20Team
 trojan://GavW8e3DN7@45.130.125.2:443?path=%2Fdb&security=tls&host=sf.farxmode.ir&fp=firefox&type=ws&sni=sf.farxmode.ir#V%20Team
 trojan://GavW8e3DN7@45.130.125.2:443?path=%2Fdb&security=tls&insecure=0&host=sf.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sf.farxmode.ir#V%20Team
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&host=sf.farxmode.ir&path=%2Fdb&security=tls&alpn=-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&fp=chrome&sni=sf.farxmode.ir#V%20Team
@@ -7983,8 +7957,8 @@ trojan://GdL9nNA8km@ssss2.avaaal.ir:443?security=tls&sni=ssss2.avaaal.ir&fp=chro
 trojan://GedH5PTxP5F4oP4kZ5opF3PWgPPCwYw3kfHMN9ZZTEXFbz9c@kr2.bw8848.org:443/?type=ws&host=kr2.bw8848.org&path=%2Fkr2-kr2-g9xjmv&security=tls&sni=kr2.bw8848.org#V%20Team
 trojan://GedH5PTxP5F4oP4kZ5opF3PWgPPCwYw3kfHMN9ZZTEXFbz9c@kr2.bw8848.org:443/?type=ws&host=kr2.bw8848.org&path=/kr2-kr2-g9xjmv&security=tls&sni=kr2.bw8848.org#V%20Team
 trojan://GedH5PTxP5F4oP4kZ5opF3PWgPPCwYw3kfHMN9ZZTEXFbz9c@kr2.bw8848.org:443?allowInsecure=0&sni=kr2.bw8848.org&type=ws&path=/kr2-kr2-g9xjmv#V%20Team
-trojan://Gl123qwe@los2.playstone.info:23443?security=tls#V%20Team
 trojan://Gl123qwe@us.playstone.info:23443/?type=tcp&security=tls#V%20Team
+trojan://Gl123qwe@us.playstone.info:23443?security=tls#V%20Team
 trojan://Go5e2nJM8U@188.42.88.144:2087?path=%40v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#V%20Team
 trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#V%20Team
 trojan://Go5e2nJM8U@45.85.119.179:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#V%20Team
@@ -8055,6 +8029,7 @@ trojan://HdsUZmsHQW@148.113.141.99:443?security=tls&insecure=0&headerType=none&t
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls&type=tcp#V%20Team
 trojan://HjFvTHArRtFScVNJQIBrjCejelvHATUk@61.228.92.76:889#V%20Team
 trojan://HjL8vMvgFr)j@3.8.117.84:14813?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#V%20Team
+trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140#V%20Team
 trojan://Huahua123@jp.huahua.company:443?security=tls&allowInsecure=1&type=tcp#V%20Team
 trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&headerType=none&fp=android&allowinsecure=0&type=tcp&sni=hu2.vpnjantit.com#V%20Team
 trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?sni=hu2.vpnjantit.com&peer=hu2.vpnjantit.com&security=tls#V%20Team
@@ -8282,6 +8257,7 @@ trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&path=%2f#V%20Team
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&path=/#V%20Team
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?type=raw&headerType=none&security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK#V%20Team
+trojan://JeSDlzqBCKqUCmDskZDSIvgscdvOYWbd@gkifo-8-tr-0.tw-tpe-hinet-0-0.o-two.xyz:889?security=tls&sni=o-two.bond#V%20Team
 trojan://Join-Daily-Configs@104.18.5.46:2083?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2#V%20Team
 trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#V%20Team
 trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#V%20Team
@@ -8499,6 +8475,7 @@ trojan://Lw_DP4%2BW.J5K33MD2Jy5zQVuT5n71%2B%3DBcD@38.60.168.129:443?security=tls
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+%3DBcD@38.60.168.129:443/?type=tcp&security=tls#V%20Team
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+%3DBcD@38.60.168.129:443/?type=tcp&security=tls&sni=38.60.168.129#V%20Team
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443#V%20Team
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0#V%20Team
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#V%20Team
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0&security=tls#V%20Team
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0&sni=#V%20Team
@@ -8530,6 +8507,7 @@ trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?type=raw&headerTyp
 trojan://M%49T%49VPN@162.159.8.101:443?path=%2F---%40M%69T%69VPN%2F---%40M%69T%69VPN%2F---%40M%69T%69VPN%2F---%40M%69T%69VPN%2F---%40M%69T%69VPN%3DUSSA&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-ol.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.App-Cloud.ir#V%20Team
 trojan://M%49TIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#V%20Team
 trojan://M%49TIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#V%20Team
+trojan://M%69T%69VPN@104.21.55.230:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.App-Cloud.ir#V%20Team
 trojan://M%69T%69VPN@104.26.15.137:443?path=%2FMiTiVPN%3DUSA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#V%20Team
 trojan://M%69T%69VPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#V%20Team
 trojan://M%69T%69VPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#V%20Team
@@ -8666,6 +8644,7 @@ trojan://MITIVPN@104.18.114.47:443?type=ws&security=tls&path=/MiTiVPN=De&host=Pi
 trojan://MITIVPN@104.18.114.47:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@104.18.33.45:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&host=my-usjca-ohl.App-CloUd.IR&sni=UsAba-bUbks.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@104.21.52.100:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-S-a&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=UsAba-bUbks.App-CloUd.IR#V%20Team
+trojan://MITIVPN@104.21.52.100:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-S-a&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=my-usjca-ohl.App-CloUd.IR&type=ws&allowInsecure=1&sni=UsAba-bUbks.App-CloUd.IR#V%20Team
 trojan://MITIVPN@104.21.52.100:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=U-S-a&security=tls&alpn=h2,http/1.1&insecure=1&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=UsAba-bUbks.App-CloUd.IR#V%20Team
 trojan://MITIVPN@104.21.52.100:443?sni=UsAba-bUbks.App-CloUd.IR&peer=UsAba-bUbks.App-CloUd.IR&security=tls#V%20Team
 trojan://MITIVPN@104.21.52.100:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-S-a&host=my-usjca-ohl.App-CloUd.IR&sni=UsAba-bUbks.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -8813,7 +8792,6 @@ trojan://MITIVPN@151.101.56.6:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=es
 trojan://MITIVPN@151.101.56.7:443#V%20Team
 trojan://MITIVPN@151.101.56.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#V%20Team
 trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#V%20Team
-trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&amp;security=tls&amp;alpn=http%2F1.1&amp;host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;sni=ssl.fastly.com#V%20Team
 trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&security=tls&alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#V%20Team
 trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#V%20Team
 trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#V%20Team
@@ -8834,7 +8812,6 @@ trojan://MITIVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.
 trojan://MITIVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=miticonfig.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE#V%20Team
 trojan://MITIVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa#V%20Team
 trojan://MITIVPN@151.101.56.7:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&host=miticonfig.global.ssl.fastly.net#V%20Team
-trojan://MITIVPN@151.101.56.7:443?type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&amp;host=miticonfig.global.ssl.fastly.net&amp;sni=ssl.fastly.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dusa&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -8851,6 +8828,7 @@ trojan://MITIVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=h2&insecu
 trojan://MITIVPN@151.101.69.219:443?security=tls&sni=speedtest.net&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=ws&host=mitivpn-77.global.ssl.fastly.net&path=/ed=mitivpn#V%20Team
 trojan://MITIVPN@151.101.69.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-77.global.ssl.fastly.net&sni=speedtest.net&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@151.101.69.219:443?type=ws&security=tls&path=/ed=mitivpn&host=mitivpn-77.global.ssl.fastly.net&sni=speedtest.net&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MITIVPN@162.159.152.2:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&host=my-usa-ol.MaQRor.Ir&sni=UsAa-bUs.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@162.159.153.2:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&host=my-usa-ol.MaQRor.Ir&sni=UsAa-bUs.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@162.159.38.119:2083?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DuSa&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-o.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-Us.App-Cloud.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:2083?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=uSa&security=tls&alpn=http/1.1&insecure=1&host=my-usa-o.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-Us.App-Cloud.ir#V%20Team
@@ -8876,6 +8854,7 @@ trojan://MITIVPN@162.159.38.119:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%
 trojan://MITIVPN@162.159.38.119:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWINde&security=tls&alpn=http%2F1.1&insecure=0&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-De-C-o.Maqror.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?path=&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=De1-2-3.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=de-jodo.App-Cloud.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?path=&security=tls&alpn=http%2F1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.App-Cloud.ir#V%20Team
+trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=D--e&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.MaQRor.Ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DEE&security=tls&alpn=http/1.1&host=De1-2-3.Maqror.ir&fp=chrome&type=ws&sni=de-ms.Maqror.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DEE&security=tls&alpn=http/1.1&insecure=0&host=De1-2-3.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=de-ms.Maqror.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DEE&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-ms.Maqror.ir#V%20Team
@@ -8888,9 +8867,9 @@ trojan://MITIVPN@162.159.38.119:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/--
 trojan://MITIVPN@162.159.38.119:443?security=tls&sni=Win-De-C-o.Maqror.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWINde#V%20Team
 trojan://MITIVPN@162.159.38.119:443?security=tls&sni=de-jodo.App-Cloud.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=De1-2-3.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGer#V%20Team
 trojan://MITIVPN@162.159.38.119:443?security=tls&sni=de-jodo.App-Cloud.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=De1-2-3.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger#V%20Team
+trojan://MITIVPN@162.159.38.119:443?security=tls&type=ws&sni=de-jodo.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&host=De1-2-3.App-Cloud.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?sni=de-jodo.App-Cloud.ir&peer=de-jodo.App-Cloud.ir&security=tls#V%20Team
 trojan://MITIVPN@162.159.38.119:443?sni=de-jodo.MaQRor.Ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&alpn=http%2F1.1&fp=chrome#V%20Team
-trojan://MITIVPN@162.159.38.119:443?type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DDEE&amp;host=De1-2-3.Maqror.ir&amp;sni=de-ms.Maqror.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&host=De1-2-3.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGer&security=tls&alpn=http%2F1.1&fp=chrome&sni=de-jodo.App-Cloud.ir#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&headerType=none&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWINde&fp=chrome&sni=Win-De-C-o.Maqror.ir&alpn=http%2F1.1#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&host=De1-2-3.MaQRor.Ir&sni=de-jodo.MaQRor.Ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -8899,10 +8878,13 @@ trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGer&host=De1-2-3.App-Cloud.ir&sni=de-jodo.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWINde&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&sni=Win-De-C-o.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DEE&host=De1-2-3.Maqror.ir&sni=de-ms.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
+trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&host=De1-2-3.App-Cloud.ir&sni=de-jodo.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&sni=Win-De-C-o.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=WINde&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&sni=Win-De-C-o.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
-trojan://MITIVPN@162.159.38.62:443?insecure=0&amp;sni=Win-use-Cv-o.Maqror.ir&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&amp;type=ws&amp;alpn=http%2F1.1&amp;security=tls&amp;fp=chrome&amp;allowInsecure=0&amp;host=bvck-oizksj-sWin-usje-C-o.Maqror.ir#V%20Team
 trojan://MITIVPN@162.159.38.62:443?insecure=0&sni=Win-use-Cv-o.Maqror.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&type=ws&alpn=http%2F1.1&security=tls&fp=chrome&allowInsecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir#V%20Team
+trojan://MITIVPN@162.159.38.62:443?insecure=0&sni=Win-use-Cv-o.Maqror.ir&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=U-s-W&type=ws&alpn=http/1.1&security=tls&fp=chrome&allowInsecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir#V%20Team
+trojan://MITIVPN@162.159.38.62:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s-W&amp;security=tls&amp;alpn=http/1.1&amp;host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;sni=Win-use-Cv-o.Maqror.ir#V%20Team
+trojan://MITIVPN@162.159.38.62:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s-W&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Win-use-Cv-o.Maqror.ir#V%20Team
 trojan://MITIVPN@162.159.38.62:443?sni=Win-use-Cv-o.Maqror.ir&peer=Win-use-Cv-o.Maqror.ir&security=tls#V%20Team
 trojan://MITIVPN@162.159.38.62:443?type=ws&security=tls&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&headerType=none&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&fp=chrome&sni=Win-use-Cv-o.Maqror.ir&alpn=http%2F1.1#V%20Team
 trojan://MITIVPN@162.159.8.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA&host=my-usa-ol.App-Cloud.ir&sni=UsAa-bUs.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -8921,6 +8903,7 @@ trojan://MITIVPN@162.159.8.101:443?security=tls&sni=UsAa-bUs.App-Cloud.ir&fp=chr
 trojan://MITIVPN@162.159.8.101:443?security=tls&sni=UsAa-bUs.App-Cloud.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=my-usa-ol.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA#V%20Team
 trojan://MITIVPN@162.159.8.101:443?sni=UsAa-bUs.App-Cloud.ir&peer=UsAa-bUs.App-Cloud.ir&security=tls#V%20Team
 trojan://MITIVPN@162.159.8.101:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSSA&host=my-usa-ol.App-Cloud.ir&sni=UsAa-bUs.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MITIVPN@162.159.8.101:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA&host=my-usa-ol.App-Cloud.ir&sni=UsAa-bUs.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@164.38.155.135:443#V%20Team
 trojan://MITIVPN@164.38.155.135:443/?type=ws&host=95r.ir&path=%2FMiTiVPN%3DDe&security=tls&sni=95r.ir#V%20Team
 trojan://MITIVPN@164.38.155.135:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#V%20Team
@@ -8959,7 +8942,7 @@ trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=/MiTiVPN=De&host=9
 trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=/MiTiVPN=De&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@170.114.45.6:443#V%20Team
 trojan://MITIVPN@170.114.45.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&alpn=http%2F1.1&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&sni=UsAa-bUs.MaQRor.Ir#V%20Team
-trojan://MITIVPN@170.114.45.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&alpn=http%2F1.1&insecure=0&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=UsAa-bUs.MaQRor.Ir#V%20Team
+trojan://MITIVPN@170.114.45.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&host=my-usa-ol.MaQRor.Ir&type=ws&sni=UsAa-bUs.MaQRor.Ir#V%20Team
 trojan://MITIVPN@170.114.45.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&insecure=1&host=my-usa-ol.MaQRor.Ir&type=ws&allowInsecure=1&sni=UsAa-bUs.MaQRor.Ir#V%20Team
 trojan://MITIVPN@170.114.45.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&security=tls&alpn=http/1.1&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&sni=UsAa-bUs.MaQRor.Ir#V%20Team
 trojan://MITIVPN@170.114.45.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&security=tls&alpn=http/1.1&insecure=0&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=UsAa-bUs.MaQRor.Ir#V%20Team
@@ -9086,6 +9069,7 @@ trojan://MITIVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40v2ray_configs_po
 trojan://MITIVPN@45.130.125.2:443?path=/---@M%69T%69VPN/---@M%69T%69VPN/---@M%69T%69VPN/---@M%69T%69VPN/---@M%69T%69VPN=GE&security=tls&alpn=http/1.1&insecure=1&host=De-e-d.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=deioej-ieid.App-Cloud.ir#V%20Team
 trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De&security=tls&insecure=1&host=D-e.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=G-Dee.MaQror.ir#V%20Team
 trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&amp;security=tls&amp;alpn=http/1.1&amp;host=De-e-d.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;sni=deioej-ieid.App-Cloud.ir#V%20Team
+trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USa&amp;security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;host=my-usa-o.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=UsAa-Us.Maqror.ir#V%20Team
 trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USa&security=tls&alpn=http/1.1&insecure=0&host=my-usa-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=UsAa-Us.Maqror.ir#V%20Team
 trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@v2ray_configs_pools=USa&security=tls&alpn=http/1.1&insecure=1&host=my-usa-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-Us.Maqror.ir#V%20Team
 trojan://MITIVPN@45.130.125.2:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=De&security=tls&insecure=1&host=D-e.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=G-Dee.MaQror.ir#V%20Team
@@ -9108,6 +9092,7 @@ trojan://MITIVPN@45.131.4.115:443?fp=firefox&insecure=0&host=PioHosting.ir&path=
 trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#V%20Team
 trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&sni=PioHosting.ir&fp=firefox&type=ws&insecure=0&alpn=http%2F1.1&security=tls&allowInsecure=0&host=PioHosting.ir#V%20Team
 trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&sni=PioHosting.ir&type=ws&insecure=0&host=PioHosting.ir&fp=firefox&security=tls&alpn=http%2F1.1&allowInsecure=0#V%20Team
+trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=PioHosting.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=PioHosting.ir#V%20Team
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=PioHosting.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=PioHosting.ir#V%20Team
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#V%20Team
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&sni=PioHosting.ir&fp=firefox&type=ws&sni=PioHosting.ir#V%20Team
@@ -9118,20 +9103,19 @@ trojan://MITIVPN@45.131.4.115:443?security=tls&sni=PioHosting.ir&fp=firefox&alpn
 trojan://MITIVPN@45.131.4.115:443?sni=PioHosting.ir&peer=PioHosting.ir&security=tls#V%20Team
 trojan://MITIVPN@45.131.4.115:443?type=ws&fp=firefox&insecure=0&alpn=http%2F1.1&path=%2FMiTiVPN%3DUsa&security=tls&host=PioHosting.ir&sni=PioHosting.ir&allowInsecure=0#V%20Team
 trojan://MITIVPN@45.131.4.115:443?type=ws&security=tls&path=%2FMiTiVPN%3DUsa&host=PioHosting.ir&sni=PioHosting.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#V%20Team
-trojan://MITIVPN@45.8.211.217:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&amp;host=jDe1-2v-3.App-CloUd.IR&amp;sni=de-j7o-doo.App-CloUd.IR&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MITIVPN@45.8.211.217:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=d-e&security=tls&alpn=h2,http/1.1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&sni=de-j7o-doo.App-CloUd.IR#V%20Team
-trojan://MITIVPN@45.8.211.217:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=jDe1-2v-3.App-CloUd.IR&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=de-j7o-doo.App-CloUd.IR#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&security=tls&alpn=h2%2Chttp%2F1.1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&sni=de-j7o-doo.App-CloUd.IR#V%20Team
+trojan://MITIVPN@45.8.211.217:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=de-j7o-doo.App-CloUd.IR#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=de-j7o-doo.App-CloUd.IR#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=%2FMiTiVPN%3DDE&security=tls&alpn=http%2F1.1&host=D--e.App-Cloud.ir&fp=chrome&type=ws&sni=D--e.App-Cloud.ir#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=%2FMiTiVPN%3DDE&security=tls&alpn=http%2F1.1&insecure=0&host=D--e.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=D--e.App-Cloud.ir#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=%2FMiTiVPN%3DDE&sni=D--e.App-Cloud.ir&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&security=tls&fp=chrome&host=D--e.App-Cloud.ir#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=d-e&security=tls&alpn=h2,http/1.1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&sni=de-j7o-doo.App-CloUd.IR#V%20Team
+trojan://MITIVPN@45.8.211.217:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=d-e&security=tls&alpn=h2,http/1.1&insecure=0&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=de-j7o-doo.App-CloUd.IR#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=d-e&security=tls&alpn=h2,http/1.1&insecure=1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=de-j7o-doo.App-CloUd.IR#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&security=tls&alpn=http/1.1&host=D--e.App-Cloud.ir&fp=chrome&type=ws&sni=D--e.App-Cloud.ir#V%20Team
 trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&sni=D--e.App-Cloud.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&security=tls&fp=chrome&host=D--e.App-Cloud.ir#V%20Team
 trojan://MITIVPN@45.8.211.217:443?sni=de-j7o-doo.App-CloUd.IR&peer=de-j7o-doo.App-CloUd.IR&security=tls#V%20Team
-trojan://MITIVPN@45.8.211.217:443?type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&amp;host=jDe1-2v-3.App-CloUd.IR&amp;sni=de-j7o-doo.App-CloUd.IR&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MITIVPN@45.8.211.217:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&host=jDe1-2v-3.App-CloUd.IR&sni=de-j7o-doo.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@45.8.211.217:443?type=ws&security=tls&path=%2FMiTiVPN%3DDE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@45.8.211.217:443?type=ws&security=tls&path=/MiTiVPN=DE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
@@ -9274,7 +9258,9 @@ trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2FMiTiVPN%3DUsa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DEE&host=De1-2-3.Maqror.ir&sni=de-ms.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&host=De1-2-3.App-Cloud.ir&sni=de-jodo.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&host=Ussa-Si-ieo.App-Cloud.ir&sni=ksidi-isid-d.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA&host=my-usa-ol.App-Cloud.ir&sni=UsAa-bUs.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USa&host=my-usa-o.Maqror.ir&sni=UsAa-Us.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de&host=de-Ge.MaQror.ir&sni=De-Ge-N.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&host=us-sss-us.MaQror.ir&sni=u---as.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -9349,6 +9335,8 @@ trojan://MITIVPN@petrolicious.com:443?sni=U-S-A.MaQror.ir&type=ws&path=/---@MiTi
 trojan://MITIVPN@petrolicious.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De&host=D-e.MaQror.ir&sni=G-Dee.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@petrolicious.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Us&host=U-s.MaQror.ir&sni=U-S-A.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@petrolicious.com:443?type=ws&security=tls&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=Us&host=U-s.MaQror.ir&sni=U-S-A.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
+trojan://MITIVPN@redis.io:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&amp;security=tls&amp;insecure=1&amp;host=jDe1-2v-3.App-CloUd.IR&amp;type=ws&amp;allowInsecure=1&amp;sni=de-j7o-doo.App-CloUd.IR#V%20Team
+trojan://MITIVPN@redis.io:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&security=tls&insecure=1&host=jDe1-2v-3.App-CloUd.IR&type=ws&allowInsecure=1&sni=de-j7o-doo.App-CloUd.IR#V%20Team
 trojan://MITIVPN@redis.io:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&host=jDe1-2v-3.App-CloUd.IR&sni=de-j7o-doo.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@redis.io:443?type=ws&security=tls&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=d-e&host=jDe1-2v-3.App-CloUd.IR&sni=de-j7o-doo.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@velocore.co:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
@@ -9365,7 +9353,8 @@ trojan://MITIVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=De&host=De.A
 trojan://MITIVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MITIVPN@visa.com:443?path=%2F#V%20Team
 trojan://MITIVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&security=tls&alpn=http%2F1.1&host=De1-2-3.MaQRor.Ir&fp=chrome&type=ws&sni=de-jodo.MaQRor.Ir#V%20Team
-trojan://MITIVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&security=tls&alpn=http%2F1.1&insecure=1&host=De1-2-3.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.MaQRor.Ir#V%20Team
+trojan://MITIVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&security=tls&alpn=http%2F1.1&insecure=0&host=De1-2-3.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=de-jodo.MaQRor.Ir#V%20Team
+trojan://MITIVPN@visa.com:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=D--e&security=tls&alpn=http/1.1&host=De1-2-3.MaQRor.Ir&fp=chrome&type=ws&sni=de-jodo.MaQRor.Ir#V%20Team
 trojan://MITIVPN@visa.com:443?sni=UsAa-bUs.MaQRor.Ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&alpn=http%2F1.1&fp=chrome#V%20Team
 trojan://MITIVPN@visa.com:443?sni=de-jodo.MaQRor.Ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&alpn=http%2F1.1&fp=chrome#V%20Team
 trojan://MITIVPN@visa.com:443?sni=de-jodo.MaQRor.Ir&peer=de-jodo.MaQRor.Ir&security=tls#V%20Team
@@ -9403,6 +9392,8 @@ trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=%2F---%40MiTiVP
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSSA&host=my-usa-ol.App-Cloud.ir&sni=UsAa-bUs.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&host=de-Ge.MaQror.ir&sni=De-Ge-N.MaQror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dusa&host=us-sss-us.MaQror.ir&sni=u---as.MaQror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&host=De1-2-3.App-Cloud.ir&sni=de-jodo.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA&host=my-usa-ol.App-Cloud.ir&sni=UsAa-bUs.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de&host=de-Ge.MaQror.ir&sni=De-Ge-N.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&host=us-sss-us.MaQror.ir&sni=u---as.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=de&host=de-Ge.MaQror.ir&sni=De-Ge-N.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -9695,6 +9686,7 @@ trojan://MiTiVPN@10.10.34.36:443?sni=wwww.95r.ir&alpn=http/1.1&type=ws&path=/ed=
 trojan://MiTiVPN@103.31.4.213:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#V%20Team
 trojan://MiTiVPN@103.31.4.213:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#V%20Team
 trojan://MiTiVPN@103.31.4.213:443?security=tls&sni=linkkon-w.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=linkkon-w.ir&path=/ed=mitivpn#V%20Team
+trojan://MiTiVPN@104.16.149.244:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DS--W-S&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=bw--ivsb-b--vvbcs.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=Swowidb-ueu-oe.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@104.16.149.244:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DS--W-S&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=bw--ivsb-b--vvbcs.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=Swowidb-ueu-oe.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@104.16.149.244:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=S--W-S&security=tls&alpn=h2,http/1.1&insecure=1&host=bw--ivsb-b--vvbcs.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=Swowidb-ueu-oe.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@104.16.149.244:443?sni=Swowidb-ueu-oe.App-CloUd.IR&peer=Swowidb-ueu-oe.App-CloUd.IR&security=tls#V%20Team
@@ -9704,12 +9696,14 @@ trojan://MiTiVPN@104.16.71.109:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%4
 trojan://MiTiVPN@104.16.71.109:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=f--l&security=tls&alpn=http/1.1&insecure=1&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-flla.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@104.16.71.109:443?sni=fl-o--7-flla.MaQRor.Ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&alpn=http%2F1.1&fp=chrome#V%20Team
 trojan://MiTiVPN@104.16.71.109:443?sni=fl-o--7-flla.MaQRor.Ir&peer=fl-o--7-flla.MaQRor.Ir&security=tls#V%20Team
+trojan://MiTiVPN@104.16.71.109:443?type=ws&amp;security=tls&amp;path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--l&amp;host=f--ls-Fl.MaQRor.Ir&amp;sni=fl-o--7-flla.MaQRor.Ir&amp;alpn=http/1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MiTiVPN@104.16.71.213:443#V%20Team
 trojan://MiTiVPN@104.16.71.213:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=wwww.95r.ir&path=%2Fed%3Dmitivpn&sni=wwww.95r.ir&type=ws#V%20Team
 trojan://MiTiVPN@104.16.71.213:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=wwww.95r.ir&path=/ed=mitivpn&sni=wwww.95r.ir&type=ws#V%20Team
 trojan://MiTiVPN@104.16.71.213:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#V%20Team
 trojan://MiTiVPN@104.16.71.213:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#V%20Team
 trojan://MiTiVPN@104.16.71.213:443?path=/ed=mitivpn&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=wwww.95r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=wwww.95r.ir#V%20Team
+trojan://MiTiVPN@104.16.71.48:443#V%20Team
 trojan://MiTiVPN@104.16.71.48:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&alpn=http%2F1.1&host=n-la-nbad.MaQRor.Ir&fp=chrome&type=ws&sni=nland-o-nl.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@104.16.71.48:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&alpn=http%2F1.1&insecure=0&host=n-la-nbad.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=nland-o-nl.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@104.16.71.48:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&insecure=1&host=n-la-nbad.MaQRor.Ir&type=ws&allowInsecure=1&sni=nland-o-nl.MaQRor.Ir#V%20Team
@@ -9724,7 +9718,6 @@ trojan://MiTiVPN@104.16.72.101:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozarga
 trojan://MiTiVPN@104.16.72.101:443?allowInsecure=0&sni=N--l.App-Cloud.ir&alpn=http/1.1&type=ws&path=/MiTiVPN=NL#V%20Team
 trojan://MiTiVPN@104.16.72.101:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=N--l.App-Cloud.ir&fp=chrome&type=ws&sni=N--l.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.16.72.101:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=N--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=N--l.App-Cloud.ir#V%20Team
-trojan://MiTiVPN@104.16.72.101:443?path=/MiTiVPN=NL&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=N--l.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=N--l.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.16.72.101:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=N--l.App-Cloud.ir&sni=N--l.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@104.16.72.101:443?type=ws&security=tls&path=/MiTiVPN=NL&host=N--l.App-Cloud.ir&sni=N--l.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@104.16.72.2:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=1&host=sjus-kdid-iodp.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl-ll-nl.App-Cloud.ir#V%20Team
@@ -9957,6 +9950,7 @@ trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&amp;security=tls&amp;alp
 trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=Nl.App-Cloud.ir&fp=firefox&type=ws&sni=Nl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#V%20Team
+trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=Nl.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Nl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=Nl.App-Cloud.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=Nl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=Nl.App-Cloud.ir&fp=chrome&type=ws&sni=Nl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=Nl.App-Cloud.ir&fp=firefox&type=ws&sni=Nl.App-Cloud.ir#V%20Team
@@ -10062,7 +10056,6 @@ trojan://MiTiVPN@104.21.55.230:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%4
 trojan://MiTiVPN@104.21.55.230:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&security=tls&alpn=http/1.1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&sni=wbjj-bbcs-.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#V%20Team
-trojan://MiTiVPN@104.21.55.230:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=SS-w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?security=tls&sni=wbjj-bbcs-.App-Cloud.ir&alpn=http%2F1.1&type=ws&host=bw--ivs-b--vvs.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSS-w#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?security=tls&sni=wbjj-bbcs-.App-Cloud.ir&alpn=http/1.1&type=ws&host=bw--ivs-b--vvs.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?security=tls&type=ws&sni=wbjj-bbcs-.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&host=bw--ivs-b--vvs.App-Cloud.ir#V%20Team
@@ -10070,6 +10063,7 @@ trojan://MiTiVPN@104.21.55.230:443?sni=wbjj-bbcs-.App-Cloud.ir&peer=wbjj-bbcs-.A
 trojan://MiTiVPN@104.21.55.230:443?sni=wbjj-bbcs-.MaQRor.Ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&alpn=http%2F1.1&fp=chrome#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSS-w&host=bw--ivs-b--vvs.App-Cloud.ir&sni=wbjj-bbcs-.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&host=bw--ivs-b--vvs.MaQRor.Ir&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@104.21.55.230:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&host=bw--ivs-b--vvs.App-Cloud.ir&sni=wbjj-bbcs-.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@104.21.55.230:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&host=bw--ivs-b--vvs.MaQRor.Ir&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@104.21.61.186:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=http%2F1.1&host=sw-Ws.App-Cloud.ir&fp=chrome&type=ws&sni=sw-Ws.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@104.21.61.186:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-Ws.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-Ws.App-Cloud.ir#V%20Team
@@ -10109,6 +10103,7 @@ trojan://MiTiVPN@104.24.17.0:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&hos
 trojan://MiTiVPN@104.24.17.0:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#V%20Team
 trojan://MiTiVPN@104.24.17.0:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#V%20Team
 trojan://MiTiVPN@104.24.17.0:443?type=ws&security=tls&path=/ed=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@104.24.212.83:443#V%20Team
 trojan://MiTiVPN@104.24.212.83:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dn-s-L&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=n-la-nbvjad.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=nlandif-o-nhdl.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@104.24.212.83:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=n-s-L&security=tls&alpn=h2,http/1.1&insecure=1&host=n-la-nbvjad.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=nlandif-o-nhdl.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@104.24.212.83:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=n-s-L&security=tls&alpn=h2,http/1.1&insecure=1&host=n-la-nbvjad.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=nlandif-o-nhdl.App-CloUd.IR#V%20Team
@@ -10149,11 +10144,11 @@ trojan://MiTiVPN@104.26.4.60:443?type=ws&host=N-l.MaQror.ir&path=%2F---%40MiTiVP
 trojan://MiTiVPN@104.26.4.60:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNl&host=N-l.MaQror.ir&sni=NL-L-ll.MaQror.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@104.26.4.60:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Nl&host=N-l.MaQror.ir&sni=NL-L-ll.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@104.31.16.65:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USAW&security=tls&alpn=http/1.1&insecure=0&host=USsW-s.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=U-S-A.App-Cloud.ir#V%20Team
-trojan://MiTiVPN@108.162.194.119:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&amp;host=f--ls-Fvl.App-CloUd.IR&amp;sni=fl-o--7-fllav.App-CloUd.IR&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
+trojan://MiTiVPN@108.162.194.119:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=f--ls-Fvl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-fllav.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@108.162.194.119:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=f--ls-Fvl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-fllav.App-CloUd.IR#V%20Team
+trojan://MiTiVPN@108.162.194.119:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=f--ls-Fvl.App-CloUd.IR&type=ws&allowInsecure=1&sni=fl-o--7-fllav.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@108.162.194.119:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=F--l&security=tls&alpn=h2,http/1.1&insecure=1&host=f--ls-Fvl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-fllav.App-CloUd.IR#V%20Team
 trojan://MiTiVPN@108.162.194.119:443?sni=fl-o--7-fllav.App-CloUd.IR&peer=fl-o--7-fllav.App-CloUd.IR&security=tls#V%20Team
-trojan://MiTiVPN@108.162.194.119:443?type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&amp;host=f--ls-Fvl.App-CloUd.IR&amp;sni=fl-o--7-fllav.App-CloUd.IR&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MiTiVPN@108.162.194.119:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&host=f--ls-Fvl.App-CloUd.IR&sni=fl-o--7-fllav.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@108.162.196.190:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#V%20Team
 trojan://MiTiVPN@108.162.196.190:443?alpn=http%2F1.1&host=linkkon-w.ir&path=%2Fed%3Dmitivpn&sni=linkkon-w.ir&type=ws#V%20Team
@@ -10729,9 +10724,11 @@ trojan://MiTiVPN@162.159.38.200:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/--
 trojan://MiTiVPN@162.159.38.200:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=fLL&security=tls&alpn=http/1.1&insecure=1&host=f--ls-Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-flla.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@162.159.38.200:443?security=tls&sni=fl-o--7-flla.App-Cloud.ir&alpn=http%2F1.1&type=ws&host=f--ls-Fl.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DfLL#V%20Team
 trojan://MiTiVPN@162.159.38.200:443?security=tls&sni=fl-o--7-flla.App-Cloud.ir&alpn=http/1.1&type=ws&host=f--ls-Fl.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL#V%20Team
+trojan://MiTiVPN@162.159.38.200:443?security=tls&type=ws&sni=fl-o--7-flla.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&host=f--ls-Fl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@162.159.38.200:443?sni=fl-o--7-flla.App-Cloud.ir&peer=fl-o--7-flla.App-Cloud.ir&security=tls#V%20Team
 trojan://MiTiVPN@162.159.38.200:443?type=ws&host=f--ls-Fl.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DfLL&security=tls&alpn=http%2F1.1&fp=chrome&sni=fl-o--7-flla.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@162.159.38.200:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DfLL&host=f--ls-Fl.App-Cloud.ir&sni=fl-o--7-flla.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@162.159.38.200:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&host=f--ls-Fl.App-Cloud.ir&sni=fl-o--7-flla.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@162.159.8.123:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NLA&security=tls&alpn=http/1.1&insecure=1&host=n-la-nad.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=nland-o-oo.Maqror.ir#V%20Team
 trojan://MiTiVPN@162.159.8.123:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nLL&host=n-la-nbad.App-Cloud.ir&sni=nland-o-nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@162.159.8.123:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNLA&security=tls&alpn=http%2F1.1&insecure=1&host=n-la-nad.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=nland-o-oo.Maqror.ir#V%20Team
@@ -10748,6 +10745,7 @@ trojan://MiTiVPN@162.159.8.123:443?type=ws&host=n-la-nad.Maqror.ir&path=%2F---%4
 trojan://MiTiVPN@162.159.8.123:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNLA&host=n-la-nad.Maqror.ir&sni=nland-o-oo.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@162.159.8.123:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DnLL&host=n-la-nbad.App-Cloud.ir&sni=nland-o-nl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@162.159.8.123:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NLA&host=n-la-nad.Maqror.ir&sni=nland-o-oo.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@162.159.8.123:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nLL&host=n-la-nbad.App-Cloud.ir&sni=nland-o-nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#V%20Team
 trojan://MiTiVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#V%20Team
 trojan://MiTiVPN@166.62.104.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#V%20Team
@@ -10849,6 +10847,7 @@ trojan://MiTiVPN@172.66.132.196:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2
 trojan://MiTiVPN@172.66.132.196:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=FlL&host=f--ls-s.Maqror.ir&sni=fl-o--7-m.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@172.66.47.69:443#V%20Team
 trojan://MiTiVPN@172.66.47.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#V%20Team
+trojan://MiTiVPN@172.66.47.69:443?path=%2Fde%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#V%20Team
 trojan://MiTiVPN@172.66.47.69:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#V%20Team
 trojan://MiTiVPN@172.66.47.69:443?path=/de=mitivpn&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#V%20Team
 trojan://MiTiVPN@172.66.47.69:443?path=/de=mitivpn&amp;security=tls&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#V%20Team
@@ -10930,7 +10929,6 @@ trojan://MiTiVPN@172.67.74.47:443?type=ws&security=tls&path=/MiTiVPN=fll&host=F-
 trojan://MiTiVPN@172.67.75.194:443?alpn=http%2F1.1&fp=chrome&host=bw--ivs-b--vvs.MaQRor.Ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&sni=wbjj-bbcs-.MaQRor.Ir&type=ws#V%20Team
 trojan://MiTiVPN@172.67.75.194:443?alpn=http/1.1&amp;fp=chrome&amp;host=bw--ivs-b--vvs.MaQRor.Ir&amp;path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&amp;sni=wbjj-bbcs-.MaQRor.Ir&amp;type=ws#V%20Team
 trojan://MiTiVPN@172.67.75.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&security=tls&alpn=http%2F1.1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&sni=wbjj-bbcs-.MaQRor.Ir#V%20Team
-trojan://MiTiVPN@172.67.75.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&security=tls&alpn=http%2F1.1&insecure=0&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=wbjj-bbcs-.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=0&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=wbjj-bbcs-.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@172.67.75.194:443?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@172.67.75.194:443?security=tls&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http%2F1.1&type=ws&host=bw--ivs-b--vvs.MaQRor.Ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w#V%20Team
@@ -10950,6 +10948,7 @@ trojan://MiTiVPN@185.207.196.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-
 trojan://MiTiVPN@188.114.96.6:443#V%20Team
 trojan://MiTiVPN@188.114.96.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#V%20Team
 trojan://MiTiVPN@188.114.96.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#V%20Team
+trojan://MiTiVPN@188.114.96.6:443?path=%2Fusa%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#V%20Team
 trojan://MiTiVPN@188.114.96.6:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#V%20Team
 trojan://MiTiVPN@188.114.96.6:443?path=/usa=mitivpn&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#V%20Team
 trojan://MiTiVPN@188.114.96.6:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#V%20Team
@@ -11145,6 +11144,7 @@ trojan://MiTiVPN@199.232.237.250:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http
 trojan://MiTiVPN@199.232.237.250:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL&amp;security=tls&amp;alpn=http/1.1&amp;host=mitivpn----a.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;sni=ssl.fastly.com#V%20Team
 trojan://MiTiVPN@199.232.237.250:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nl&security=tls&alpn=http/1.1&insecure=1&host=mitivpn--------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#V%20Team
 trojan://MiTiVPN@199.232.237.250:443?path=/MiTiVPN=NL&amp;security=tls&amp;alpn=http/1.1&amp;host=mitivpn----a.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;sni=ssl.fastly.com#V%20Team
+trojan://MiTiVPN@199.232.237.250:443?path=/MiTiVPN=NL&amp;security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;host=mitivpn----a.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ssl.fastly.com#V%20Team
 trojan://MiTiVPN@199.232.237.250:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&type=ws&host=mitivpn--------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl#V%20Team
 trojan://MiTiVPN@199.232.237.250:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&type=ws&host=mitivpn----a.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL#V%20Team
 trojan://MiTiVPN@199.232.237.250:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=mitivpn--------mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nl#V%20Team
@@ -11192,7 +11192,6 @@ trojan://MiTiVPN@199.232.78.140:443?security=tls&sni=ssl.fastly.com&alpn=http/1.
 trojan://MiTiVPN@199.232.78.140:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl#V%20Team
 trojan://MiTiVPN@199.232.78.140:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=miticonfig.global.ssl.fastly.net#V%20Team
 trojan://MiTiVPN@199.232.78.140:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net#V%20Team
-trojan://MiTiVPN@199.232.78.140:443?type=ws&amp;security=tls&amp;path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&amp;host=miticonfig.global.ssl.fastly.net&amp;sni=ssl.fastly.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#V%20Team
 trojan://MiTiVPN@199.232.78.140:443?type=ws&headerType=none&security=tls&encryption=none&sni=ssl.fastly.com&fp=chrome&alpn=h2%2Chttp%2F1.1&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&insecure=0#V%20Team
 trojan://MiTiVPN@199.232.78.140:443?type=ws&insecure=0&allowInsecure=0&alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&security=tls&fp=chrome&sni=ssl.fastly.com#V%20Team
 trojan://MiTiVPN@199.232.78.140:443?type=ws&insecure=0&allowInsecure=0&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&security=tls&fp=chrome&sni=ssl.fastly.com#V%20Team
@@ -11238,6 +11237,7 @@ trojan://MiTiVPN@45.130.125.2:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozargah
 trojan://MiTiVPN@45.130.125.2:443?insecure=0&security=tls&sni=Netland.App-Cloud.ir&allowInsecure=0&type=ws&host=Netland.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2FMiTiVPN%3DN-L#V%20Team
 trojan://MiTiVPN@45.130.125.2:443?insecure=0&security=tls&sni=Netland.App-Cloud.ir&allowInsecure=0&type=ws&host=Netland.App-Cloud.ir&alpn=http/1.1&fp=chrome&path=/MiTiVPN=N-L#V%20Team
 trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dflw&security=tls&alpn=http%2F1.1&insecure=1&host=fl-nll-i.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=Fl-u-yueisi.App-Cloud.ir#V%20Team
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=n--l-l.MaQror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=nlll-lls-e.MaQror.ir#V%20Team
 trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl&security=tls&alpn=http%2F1.1&host=n--l-l.MaQror.ir&fp=chrome&type=ws&sni=nlll-lls-e.MaQror.ir#V%20Team
 trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl&security=tls&alpn=http%2F1.1&insecure=1&host=n--l-l.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=nlll-lls-e.MaQror.ir#V%20Team
 trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&sni=bsw-wwlslw-w.Maqror.ir#V%20Team
@@ -11507,6 +11507,7 @@ trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&h
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#V%20Team
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#V%20Team
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&host=Fl.App-Cloud.ir&type=ws&sni=Fl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&insecure=0&host=Fl.App-Cloud.ir&type=ws&allowInsecure=0#V%20Team
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&insecure=0&host=Fl.App-Cloud.ir&type=ws&allowInsecure=0&sni=Fl.App-Cloud.ir#V%20Team
@@ -11586,6 +11587,7 @@ trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=fffffl-lls.MaQror.ir&alp
 trojan://MiTiVPN@assets.fiverr.com:443?security=tls&sni=fffffl-lls.MaQror.ir&alpn=http/1.1&type=ws&host=f-l-nl.MaQror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?security=tls&type=ws&sni=Fl-u-ueisi.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=fl-ll-i.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?security=tls&type=ws&sni=PioHosting.ir&path=/MiTiVPN=NL&host=PioHosting.ir#V%20Team
+trojan://MiTiVPN@assets.fiverr.com:443?security=tls&type=ws&sni=fl-o--7-flla.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&host=f--ls-Fl.App-Cloud.ir#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?sni=Fl-u-ueisi.App-Cloud.ir&allowInsecure=1&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&alpn=http/1.1&fp=chrome#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?sni=PioHosting.ir&peer=PioHosting.ir&security=tls#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?sni=fffffl-lls.MaQror.ir&allowInsecure=1&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&alpn=http/1.1&fp=chrome#V%20Team
@@ -11613,9 +11615,12 @@ trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/--
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL&host=sjus-kdid-iodp.App-Cloud.ir&sni=nl-ll-nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NLA&host=n-la-nad.Maqror.ir&sni=nland-o-oo.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=S-w&host=w--is---s.Maqror.ir&sni=w-s-s.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&host=bw--ivs-b--vvs.App-Cloud.ir&sni=wbjj-bbcs-.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Sw&host=S--w-w.App-Cloud.ir&sni=sws-so-o.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&host=f--ls-Fl.App-Cloud.ir&sni=fl-o--7-flla.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=f-l-nl.MaQror.ir&sni=fffffl-lls.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=fl-ll-i.App-Cloud.ir&sni=Fl-u-ueisi.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nLL&host=n-la-nbad.App-Cloud.ir&sni=nland-o-nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nl&host=n--l-l.MaQror.ir&sni=nlll-lls-e.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sw&host=sw-w-e.MaQror.ir&sni=sww-w.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=FlL&host=f--ls-s.Maqror.ir&sni=fl-o--7-m.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -11774,7 +11779,8 @@ trojan://MiTiVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=Se&host=sw.A
 trojan://MiTiVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=fL&host=Fl.App-Cloud.ir&sni=fl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=fL&host=Fl.App-Cloud.ir&sni=fl.App-Cloud.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&security=tls&alpn=http%2F1.1&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&sni=fl-o--7-flla.MaQRor.Ir#V%20Team
-trojan://MiTiVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&security=tls&alpn=http%2F1.1&insecure=1&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-flla.MaQRor.Ir#V%20Team
+trojan://MiTiVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&security=tls&alpn=http%2F1.1&insecure=0&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=fl-o--7-flla.MaQRor.Ir#V%20Team
+trojan://MiTiVPN@visa.com:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--l&security=tls&alpn=http/1.1&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&sni=fl-o--7-flla.MaQRor.Ir#V%20Team
 trojan://MiTiVPN@visa.com:443?security=tls&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http%2F1.1&type=ws&host=bw--ivs-b--vvs.MaQRor.Ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w#V%20Team
 trojan://MiTiVPN@visa.com:443?security=tls&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http/1.1&type=ws&host=bw--ivs-b--vvs.MaQRor.Ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w#V%20Team
 trojan://MiTiVPN@visa.com:443?sni=fl-o--7-flla.MaQRor.Ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&alpn=http%2F1.1&fp=chrome#V%20Team
@@ -11826,7 +11832,10 @@ trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=%2F---%40MiTiVP
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=%2FMiTiVPN%3DN-L&host=Nl-L.App-Cloud.ir&sni=Nl-L.App-Cloud.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=%2FMiTiVPN%3DSw&host=sw-W.App-Cloud.ir&sni=sw-W.App-Cloud.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=%2FMiTiVPN%3Dfll&host=F-ll.App-Cloud.ir&sni=F-ll.App-Cloud.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#V%20Team
+trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&host=bw--ivs-b--vvs.App-Cloud.ir&sni=wbjj-bbcs-.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&host=f--ls-Fl.App-Cloud.ir&sni=fl-o--7-flla.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=f-l-nl.MaQror.ir&sni=fffffl-lls.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
+trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nLL&host=n-la-nbad.App-Cloud.ir&sni=nland-o-nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nl&host=n--l-l.MaQror.ir&sni=nlll-lls-e.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sw&host=sw-w-e.MaQror.ir&sni=sww-w.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
 trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=fl&host=f-l-nl.MaQror.ir&sni=fffffl-lls.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#V%20Team
@@ -11900,3 +11909,31 @@ trojan://Mitivpn@104.17.121.71:443?path=%2F%3Fed%3D2048&security=tls&insecure=1&
 trojan://Mitivpn@104.17.121.71:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#V%20Team
 trojan://Mitivpn@104.17.121.71:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bhost=cdn.hitgram.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=cdn.hitgram.ir#V%20Team
 trojan://Mitivpn@104.17.121.71:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Binsecure=1&amp%3Bhost=cdn.hitgram.ir&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=cdn.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?path=/?ed&security=tls&alpn=http/1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?path=/?ed&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&insecure=1&host=cdn.hitgram.ir&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?security=tls&sni=panel.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?security=tls&type=ws&sni=cdn.hitgram.ir&path=/?ed=2048&host=cdn.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=/?ed&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=/?ed=2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=/?ed=mitivpn&host=panel.hitgram.ir&sni=panel.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.8:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.8:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed=mitivpn&security=tls&alpn=h2,http/1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.8:443?path=/?ed=mitivpn&security=tls&alpn=h2,http/1.1&host=panel.hitgram.ir&fp=chrome&type=ws&sni=panel.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.8:443?path=/?ed=mitivpn&security=tls&alpn=h2,http/1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.9:2053?allowInsecure=1&sni=dash.hitgram.ir&alpn=http/1.1&type=ws&host=dash.hitgram.ir&path=/?ed=2048#V%20Team
+trojan://Mitivpn@104.17.121.9:2053?allowInsecure=1&sni=dash.hitgram.ir&alpn=http/1.1&type=ws&path=/?ed=2048#V%20Team
+trojan://Mitivpn@104.17.121.9:2053?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.9:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&eh=Sec-WebSocket-Protocol&fp=chrome&host=my.hitgram.ir&path=%2F&sni=my.hitgram.ir&type=ws#V%20Team
+trojan://Mitivpn@104.17.121.9:443?allowInsecure=1&alpn=h2,http/1.1&eh=Sec-WebSocket-Protocol&fp=chrome&host=my.hitgram.ir&path=/&sni=my.hitgram.ir&type=ws#V%20Team
+trojan://Mitivpn@104.17.121.9:443?allowInsecure=1&sni=my.hitgram.ir&alpn=h2%2Chttp/1.1&type=ws&host=my.hitgram.ir&path=/?ed=mitivpn#V%20Team
+trojan://Mitivpn@104.17.121.9:443?allowInsecure=1&sni=my.hitgram.ir&alpn=h2%2Chttp/1.1&type=ws&path=/?ed=mitivpn#V%20Team
+trojan://Mitivpn@104.17.121.9:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=my.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=my.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.9:443?security=tls&sni=my.hitgram.ir#V%20Team
+trojan://Mitivpn@104.17.121.9:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=my.hitgram.ir&sni=my.hitgram.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#V%20Team
+trojan://Mitivpn@104.17.121.9:443?type=ws&security=tls&path=/?ed=mitivpn&host=my.hitgram.ir&sni=my.hitgram.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#V%20Team
